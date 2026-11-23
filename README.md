@@ -1,5 +1,4 @@
 # CRUD - NODE JS
 ==================
 
-Professor Leonardo 
-Aluno: Lucas Teodoro
+Professor Leonardo / Aluno: Lucas Teodoro
